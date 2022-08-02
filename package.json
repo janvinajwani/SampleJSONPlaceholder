@@ -4,7 +4,7 @@
   "description": "Fake json Rest API",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch books.json"
+    "json:server": "json-server --watch db.json"
   },
   "author": "",
   "license": "ISC",
